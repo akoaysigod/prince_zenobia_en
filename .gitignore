@@ -1,0 +1,23 @@
+# ROMs (original and patched)
+*.ngc
+*.ngp
+*.npc
+
+# Save files and save states
+*.sav
+*.bs[0-9]
+*.ss[0-9]
+*.state
+*.srm
+
+# Console BIOS
+*.bin
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+.build
